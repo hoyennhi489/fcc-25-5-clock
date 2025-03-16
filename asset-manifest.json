@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fcc-25-5-clock/static/css/main.8f6979a9.css",
+    "main.js": "/fcc-25-5-clock/static/js/main.a740ac18.js",
+    "index.html": "/fcc-25-5-clock/index.html",
+    "main.8f6979a9.css.map": "/fcc-25-5-clock/static/css/main.8f6979a9.css.map",
+    "main.a740ac18.js.map": "/fcc-25-5-clock/static/js/main.a740ac18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6979a9.css",
+    "static/js/main.a740ac18.js"
+  ]
+}
